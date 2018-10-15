@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Las Vegas</string>
+		<key>image</key>
+		<string>LasVegassign</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Carnival Cruise</string>
+		<key>image</key>
+		<string>Carnivalcruise</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sandals Resort</string>
+		<key>image</key>
+		<string>Sandals</string>
+	</dict>
+</array>
+</plist>

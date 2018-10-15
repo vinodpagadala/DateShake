@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DerivedData/Build/Products/Debug-iphonesimulator/Pods_Shake_It.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Shake It-umbrella.h",
+          'external-contents': "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/Pods/Target Support Files/Pods-Shake It/Pods-Shake It-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Shake_It-Swift.h",
+          'external-contents': "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DerivedData/Build/Products/Debug-iphonesimulator/Pods_Shake_It.framework/Headers/Pods_Shake_It-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DerivedData/Build/Products/Debug-iphonesimulator/Pods_Shake_It.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DerivedData/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-Shake It.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

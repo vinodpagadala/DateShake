@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "3859f1059e0f720c1ee6fcf9f40a3070"
+build_time: [1526762875, 60602000]
+inputs:
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/TravelDateFiles/TravelDateItem.swift": [1524930305, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/EatsDateFiles/EatsDateTableViewCell.swift": [1524408842, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/FunDateFiles/FunDateItem.swift": [1524325061, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/ViewController.swift": [1526240171, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/EatsDateFiles/EatsDatesTableViewController.swift": [1524411187, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/FriendlyVC.swift": [1526240178, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/TravelDateFiles/TravelDatesTableViewController.swift": [1524938824, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/HomePageVC.swift": [1526242702, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/SlotMachineVC.swift": [1526762858, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/EatsDateFiles/EatsDateItem.swift": [1524331365, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/TravelDateFiles/TravelDatesTableViewCell.swift": [1524931322, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/FunDateFiles/FunDatesManager.swift": [1524325166, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/EatsDateFiles/EatsDateManager.swift": [1524336788, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/FunDateFiles/FunDatesTableViewCell.swift": [1524334266, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/AppDelegate.swift": [1518307170, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/FunDateFiles/FunDatesTableViewController.swift": [1524325183, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/TravelDateFiles/TravelDateManager.swift": [1524931962, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/SwiftGif.swift": [1514399812, 0]
+  "/Users/Manoj/Desktop/iOS Workspace/Latest Project/DateShake/DateShake/FriendlySlotVC.swift": [1526762834, 0]

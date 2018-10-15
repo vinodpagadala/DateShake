@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Dave and Buster&apos;s</string>
+		<key>image</key>
+		<string>Dave-Busters</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Six Flags</string>
+		<key>image</key>
+		<string>Six-Flags-2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Top Golf</string>
+		<key>image</key>
+		<string>topgolf</string>
+	</dict>
+</array>
+</plist>
